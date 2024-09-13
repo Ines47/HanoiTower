@@ -1,6 +1,6 @@
 # Tower of Hanoi
 
-![](scr.jpg)
+![](scr.png)
 
 # Approach
 
